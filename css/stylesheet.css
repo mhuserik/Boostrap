@@ -1,0 +1,22 @@
+.TB {
+    margin: 5%;
+}
+
+.img-thumbnail {
+    display: none;
+    margin: auto;
+    width: 50%;
+
+}
+
+.alert{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+ p {
+    font: bold;
+    font-size: 200%;
+    text-align: center;
+ }
